@@ -1,7 +1,5 @@
 # BYOL Challenge: Node.js Express on Lambda
 
-**Submitted by:** Khang Ninh
-
 ## Strategy: Strategy A — `serverless-http` adapter
 
 ### Why this strategy?
@@ -15,6 +13,5 @@
 - **Method:** Viewed the Lambda console "Recent invocations" panel.
 
 ### Links
-- **API Gateway URL:** https://16fbo0lh1i.execute-api.us-west-2.amazonaws.com
-- **GitHub Source:** https://github.com/KhangNinh/xbrain-w5-byol-node-express.git
-
+- **API Gateway URL:** https://rk1wybh4i4.execute-api.us-west-2.amazonaws.com
+- **GitHub Source:** https://github.com/Ninhnguyen1003/https-github.com-KhangNinh-xbrain-w5-byol-node-express.git
